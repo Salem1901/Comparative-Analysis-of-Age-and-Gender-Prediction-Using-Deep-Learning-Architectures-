@@ -1,11 +1,11 @@
 # Comparative-Analysis-of-Age-and-Gender-Prediction-Using-Deep-Learning-Architectures-
-This repository contains the implementation of a deep learning-based approach for predicting gender (classification) and age (regression) from panoramic dental X-ray images. The project compares various state-of-the-art models, including CNN, Vision Transformer, ResNet, MobileNet, DenseNet, and Vision-Language Models (VLMs) like Moondream2 and PaliGemma. It also explores data preprocessing techniques and inference time for single-image predictions.
+This repository contains the implementation of a deep learning-based approach for predicting gender (classification) and age (regression) from panoramic dental X-ray images. The project compares various state-of-the-art models, including CNN, Vision Transformer, ResNet, MobileNet, DenseNet, and Vision-Language Models (VLMs) like Moondream2. It also explores data preprocessing techniques and inference time for single-image predictions.
 # Key Features
 Comprehensive Model Comparison: Includes CNN, VGG16, VGG19, ResNet50, ResNet101, ResNet152, MobileNet, DenseNet121, DenseNet169, Vision Transformer, and Moondream2.
 Dual-Task Learning: Predicts gender (classification) and age (regression) using separate models.
 Class Imbalance Mitigation: Utilizes Random Over Sampler to address dataset imbalance.
 Inference Time Analysis: Benchmarks the time taken by each model for single-image predictions.
-Exploration of Vision-Language Models: Evaluates VLMs like Moondream2 and PaliGemma for medical imaging tasks.
+Exploration of Vision-Language Models: Evaluates VLMs like Moondream2 for medical imaging tasks.
 Customizable Code: Modular implementation for easy adaptation and experimentation.
 # Dataset
 The dataset used for this project can be accessed [here].
