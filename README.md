@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Clone the Repository
 git clone https://github.com/<your-username>/Comparative-Analysis-of-Age-and-Gender-Prediction-Using-Deep-Learning-Architectures-.git  
 cd Comparative-Analysis-of-Age-and-Gender-Prediction-Using-Deep-Learning-Architectures-  
-Download the Dataset
+
 Place the dataset in the appropriate directory or folder as required by the notebooks. Ensure your dataset is formatted and structured as expected in each experiment.
 xplore the Notebooks
 The repository contains the following Jupyter notebooks for training and experimenting with different models:
