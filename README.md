@@ -7,8 +7,6 @@ Class Imbalance Mitigation: Utilizes Random Over Sampler to address dataset imba
 Inference Time Analysis: Benchmarks the time taken by each model for single-image predictions.
 Exploration of Vision-Language Models: Evaluates VLMs like Moondream2 for medical imaging tasks.
 Customizable Code: Modular implementation for easy adaptation and experimentation.
-# Dataset
-The dataset used for this project can be accessed [here].
 
 # Requirements
 To run the code, ensure you have the following installed:
